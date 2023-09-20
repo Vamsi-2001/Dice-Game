@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(252, 216, 192);
+}
+.Asker{
+    font-family: 'Skranji', cursive;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+}
+.players{
+    font-family: 'Croissant One', cursive;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.dice{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+button{
+    border: none;
+    padding: 10px;
+    border-radius: 15%;
+    background-color: rgb(255, 4, 4);
+    font-weight: bold;
+    color: white;
+
+}
